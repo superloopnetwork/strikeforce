@@ -1,2 +1,2 @@
-# kbar
-StackStorm for Kobo Network
+# strikeforceAR
+strikeforceAR + StackStorm
