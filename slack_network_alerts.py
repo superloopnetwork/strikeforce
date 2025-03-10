@@ -6,7 +6,7 @@ import re
 import requests
 
 def slack(title,output=''):
-	url = "https://hooks.slack.com/services/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"
+	url = "https://hooks.slack.com/services/x/x/x"
 	message = output
 	slack_data = {
 		"username": "NotificationBot",
