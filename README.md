@@ -1,2 +1,2 @@
 # strikeforceAR
-strikeforceAR + StackStorm
+strikeforce + StackStorm
